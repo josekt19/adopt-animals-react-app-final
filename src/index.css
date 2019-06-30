@@ -1,0 +1,252 @@
+body {
+  padding-top: 56px;
+  background-color: #D5D2C1;
+  font-family: 'Muli', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.barrappal .navbar-nav .nav-link {
+  color: khaki;
+}
+
+.barrappal {
+  background-color: rgba(119, 73, 12, 0.836);
+}
+
+.logokolitas {
+  width: 64px;
+  height: 64px;
+}
+.card-img-top{
+  height: 253px;
+}
+
+
+
+a.nav-link {
+  color: khaki;
+}
+
+.nav-item {
+  color: khaki;
+}
+
+.nav-link:hover {
+  color: rgba(255,255,255,.75);
+  
+}
+
+.nav-link:focus {
+  box-shadow: none;
+}
+
+.btnlogin {
+  width: 8px;
+}
+
+.dog-banner {
+  width: 1080px;
+  height: 480px;
+}
+
+.footerkolitas {
+  background-color: rgba(119, 73, 12, 0.836);
+}
+
+.login-form {
+  background-color: rgba(119, 73, 12, );
+}
+
+.carrusel {
+  border-radius: 7px;
+}
+
+.filters {
+  margin: 10px;
+}
+
+.search-slt {
+  border-radius: 20px 20px 0px 0px;
+}
+
+.dropdown-toggle {
+  height: 38px;
+  color: khaki;
+}
+.row {
+
+  margin: 37px;
+
+}
+
+.haircolor {
+  font-style: fa5-proxima-nova
+}
+
+.btn-search {
+  background-color: rgba(119, 73, 12, 0.836);
+  color: khaki;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+  
+  
+}
+li>h4{
+  text-decoration: underline black;
+}
+
+.desplegable {
+  border-radius: 45px;
+}
+
+.Registro {
+  border: solid 2px rgb(131, 86, 54);
+  border-radius: 20px 20px 60px 60px;
+  text-align: center;
+  font-weight: 400;
+  color: black;
+  margin-top: 65px;
+  margin-bottom: 40px;
+ 
+}
+
+.Registro-animal{
+  border: solid 2px rgb(131, 86, 54);
+  border-radius: 20px 20px 60px 60px;
+  text-align: center;
+  font-weight: 400;
+  color: black;
+  height: 550px;
+  line-height: 40px;
+  
+}
+
+.navbar-dark .navbar-brand{
+
+  color: khaki
+}
+
+.btn.focus, .btn:focus{
+
+  box-shadow: 0 0 0 0.2rem rgba(119, 73, 12, 0.836)
+}
+
+.form-control:focus {
+  border-color: rgba(119, 73, 12, 0.836);
+  box-shadow: 0 0 0 0.2rem rgba(119, 73, 12, 0.836);
+  background-color: rgb(131, 86, 54);
+  color: khaki;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #ffffff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+.form-control-filter {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: khaki;
+  background-color: rgba(119, 73, 12, 0.836);
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.container-form {
+  border: solid black;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+  color: black
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.btn-search:hover {
+  background-color: rgba(119, 73, 12, 0.836);
+  color: khaki;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+  box-shadow: khaki
+}
+
+.btn-search:focus {
+  background-color: rgba(119, 73, 12, 0.836);
+  color: khaki;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+  
+  box-shadow: khaki;
+}
+
+label{
+  color: black
+}
+
+.contacto{
+  border-top: 1px solid rgba(119, 73, 12, 0.836);
+}
+
+a.cardname{
+
+  color: black
+}
+div.container.registro {
+
+  height: 550px;
+}
+.w-100{
+  height: 550px;
+  
+  border-radius: 20px 20px 60px 60px;
+  border: 20px;
+  -webkit-border-radius: 20px 20px 60px 60px;
+  -moz-border-radius: 20px 20px 60px 60px;
+  -ms-border-radius: 20px 20px 60px 60px;
+  -o-border-radius: 20px 20px 60px 60px;
+}
+
+.fichamascota{
+
+  height: 550px;
+}
+.ficha{
+  padding-top: 20px;
+}
+
+.card{
+  border-radius: 20px;
+}
+.ficharegistro{
+
+  text-align: center
+}
+
+ul{
+  list-style:none;
+  margin-left: -30px
+  }
+  
+  
